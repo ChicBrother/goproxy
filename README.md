@@ -13,3 +13,12 @@ goproxy 正式版下载 [http://git.io/goproxy](https://github.com/phuslu/goprox
 ## 代码
  * goproxy https://github.com/phuslu/goproxy
  * goagent.exe https://github.com/phuslu/taskbar
+ * 
+ 
+## 配置
+下载后需要更改main.json
+
+"url": "https://yourapp.herokuapp.com/index.go",
+"password": "密码",
+"sslverify": true
+
